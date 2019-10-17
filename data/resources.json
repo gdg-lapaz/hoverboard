@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "GDG-LA PAZ DevFest 2019",
   "description": "Join the commuity, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "Noviembre 8-9, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -11,25 +11,25 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
+  "buyTicket": "Compra tu Ticket",
+  "signIn": "Registrarse",
+  "signOut": "Cerrar Sesión",
+  "viewHighlights": "Ver lo mejor del año pasado",
+  "offlineMessage": "Ahora puedes trabajar sin conexión.",
+  "cachingComplete": "Caché completo! Las visitas futuras funcionarán sin conexión.",
+  "newVersionAvailable": "Una nueva versión de esta aplicación está disponible.",
   "refresh": "Refresh",
   "position": "Position",
-  "country": "Country",
-  "time": "Time",
+  "country": "País",
+  "time": "Tiempo",
   "faq": "/data/faq.md",
   "coc": "/data/coc.md",
   "footer": {
     "blog": "Blog"
   },
   "mySchedule": {
-    "title": "My Schedule",
-    "browseSession": "Browse sessions"
+    "title": "Mi horario",
+    "browseSession": "Ver las sesiones"
   },
   "footerRelBlock": [
     {
@@ -124,35 +124,35 @@
     ]
   },
   "aboutBlock": {
-    "title": "About",
+    "title": "Acerca del evento",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
+        "description": "GDG DevFest La Paz reúne a los expertos de clase mundial en tecnologías Android, Web y Cloud en La Paz durante 2 días de sesiones, talleres y exhibiciones.",
+        "label": "Ve lo mejor del año pasado",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
+        "description": "Descrito por muchos como el mejor evento de tecnología, nuestro equipo crea DevFest para ser el mejor lugar para compartir experiencias en una atmósfera fenomenal donde todos podemos aprender de todo lo nuevo en tecnologías de Google par desarrollo.",
+        "label": "Mira el resumen del 2019",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Asistentes",
+        "number": "400"
       },
       "days": {
-        "label": "Days",
+        "label": "Días",
         "number": "2"
       },
       "sessions": {
-        "label": "Sessions",
+        "label": "Sesiones",
         "number": "50"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "4"
+        "label": "Auditorios",
+        "number": "2"
       }
     }
   },
