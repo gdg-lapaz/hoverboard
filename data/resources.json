@@ -223,8 +223,8 @@
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Recibir notificaciones sobre las actualizaciones importantes de la conferencia.",
+      "label": "Suscribir"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
