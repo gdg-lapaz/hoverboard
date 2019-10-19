@@ -44,7 +44,7 @@
       "description": "¡Únete a la comunidad, y aprende cosas nuevas!",
       "background": {
         "color": "#eb5b34",
-        "image": "/images/backgrounds/home.jpg"
+        "image": "/images/backgrounds/home.png"
       },
       "fontColor": "#FFF"
     },
@@ -113,13 +113,13 @@
     "short": "La Paz, Bolivia",
     "address": "Av. 14 de Septiembre esquina Calle 2 de Obrajes, La Paz, Bolivia",
     "pointer": {
-      "latitude": -16.52261,
-      "longitude": -68.11181,
-      "zoom": 5
+      "latitude": -16.52174,
+      "longitude": -68.11197,
+      "zoom": 17
     },
     "mapCenter": {
-      "latitude": -16.52261,
-      "longitude": -68.11181
+      "latitude": -16.52161,
+      "longitude": -68.11271
     },
     "description": "La Universidad Católica Boliviana San Pablo será la casa del DevFest 2019, Tendremos distintos ambientes donde se realizarán todas ala actividades."
   },
