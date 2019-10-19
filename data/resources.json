@@ -5,14 +5,13 @@
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "Noviembre 8-9, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
+  "share": "Compartir",
   "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "followUs": "Siguenos",
+  "emailUs": "Contactate",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Compra tu Ticket",
-  "signIn": "Registrarse",
   "signOut": "Cerrar Sesión",
   "viewHighlights": "Ver lo mejor del año pasado",
   "offlineMessage": "Ahora puedes trabajar sin conexión.",
@@ -33,11 +32,11 @@
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Sobre nosotros",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG La Paz",
+          "url": "https://www.meetup.com/es-ES/GDG-La-Paz/",
           "newTab": true
         },
         {
@@ -51,33 +50,33 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "El equipo",
+          "url": "https://devfest2019-c1d8f.web.app/team/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Mira los eventos pasados",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "DevFest 2015",
+          "url": "https://www.facebook.com/events/1472748579696378/",
           "newTab": true
         },
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
+          "name": "DevFest 2016",
+          "url": "https://www.facebook.com/events/1169325799779223/",
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
+          "name": "DevFest 2017",
+          "url": "https://www.facebook.com/events/282277625510105/",
           "newTab": true
         },
         {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "DevFest 2018",
+          "url": "https://www.facebook.com/events/1899468866814599/",
           "newTab": true
         }
       ]
@@ -158,7 +157,7 @@
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Las entradas otorgan acceso a todas las secciones de la conferencia, coffee breaks, almuerzos y fiestas. El alojamiento NO está incluido en el precio del boleto.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
@@ -212,15 +211,15 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#devfest18",
+    "description": "El festival del año pasado generó mucha emoción. Vea fotos de charlas destacadas, sesiones de aprendizaje práctico y diversión fuera del horario laboral.",
     "callToAction": {
-      "label": "See all photos",
+      "label": "Mire todas las fotos",
       "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Ubicación"
   },
   "subscribeBlock": {
     "callToAction": {
@@ -272,27 +271,27 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizadores",
+        "description": "El <a href='https://www.meetup.com/es-ES/GDG-La-Paz/' target='_blank'>GDG La Paz</a> es la comunidad de desarrolladores que utilizan tecnologías, plataformas y APIs de Google, ya sea en el ámbito laboral, o en proyectos personales.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Ver al equipo organizador",
           "link": "/team"
         }
       },
       {
-        "title": "What is a GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
+        "title": "Qué es un GDG?",
+        "description": "Un grupo de desarrolladores de Google es una comunidad de voluntarios que crean proyectos interesantes y comparten experiencias sobre las tecnologías de Google.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Leer más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
       },
       {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "title": "Qué es un DevFest?",
+        "description": "Los DevFests son eventos para desarrolladores liderados por la comunidad organizados por Grupos de desarrolladores de Google en todo el mundo.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Leer más",
           "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
