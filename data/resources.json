@@ -160,7 +160,7 @@
     "ticketsDetails": "Las entradas otorgan acceso a todas las secciones de la conferencia, coffee breaks, almuerzos y fiestas. El alojamiento NO está incluido en el precio del boleto.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "save": "Todo el evento"
   },
   "partnersBlock": {
     "title": "Partners",
@@ -173,24 +173,6 @@
     },
     "toast": "We will contact you soon!"
   },
-  "featuredVideos": {
-    "title": "DFUA'16 featured videos",
-    "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-    }
-  },
-  "blog": {
-    "published": "Published",
-    "suggested": "Up next"
-  },
-  "latestPostsBlock": {
-    "title": "The latest news",
-    "callToAction": {
-      "label": "View all stories",
-      "link": "/blog/"
-    }
-  },
   "speakers": {
     "skills": "Skills",
     "previousYears": "Years",
@@ -201,13 +183,6 @@
     "callToAction": {
       "label": "View all speakers",
       "link": "/speakers/"
-    }
-  },
-  "previousSpeakersBlock": {
-    "title": "Previous speakers",
-    "callToAction": {
-      "label": "View all",
-      "link": "/previous-speakers/"
     }
   },
   "galleryBlock": {
@@ -224,7 +199,7 @@
   "subscribeBlock": {
     "callToAction": {
       "description": "Recibir notificaciones sobre las actualizaciones importantes de la conferencia.",
-      "label": "Suscribir"
+      "label": "MeetUp"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
