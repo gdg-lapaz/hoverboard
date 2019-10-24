@@ -147,7 +147,7 @@
   "speakersBlock": {
     "title": "Speakers",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Ver a todos los Speakers",
       "link": "/speakers/"
     }
   },
