@@ -58,8 +58,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Escuche a los Googlers, socios y oradores invitados que están construyendo el futuro de la nube. Vuelva a consultar a menudo a medida que agreguemos más oradores, incluidos nuestros clientes y socios.",
-      "description": "Escuche a los Googlers, socios y oradores invitados que están construyendo el futuro de la nube. Vuelva a consultar a menudo a medida que agreguemos más oradores, incluidos nuestros clientes y socios.",
+      "metaDescription": "Venga a escuchar a los Googlers, Partners y Oradores invitados que están construyendo el futuro de la tecnología. Consulte esta pagina hasta antes del evento por que iremos incluyendo mientras mas Speakers son confirmados.",
+      "description": "Venga a escuchar a los Googlers, Partners y Oradores invitados que están construyendo el futuro de la tecnología. Consulte esta pagina hasta antes del evento por que iremos incluyendo mientras mas Speakers son confirmados.",
       "background": {
         "color": "#FFF"
       },
@@ -74,16 +74,16 @@
       "fontColor": "#424242"
     },
     "schedule": {
-      "title": "Schedule",
-      "metaDescription": "Choose your sessions to visit",
+      "title": "Cronograma",
+      "metaDescription": "Elige tus sesiones para visitar",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
-      "metaDescription": "Get more info about organizers",
+      "title": "Equipo",
+      "metaDescription": "Obtenga más información sobre los organizadores.",
       "background": {
         "color": "#fff"
       },
