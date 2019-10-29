@@ -29,11 +29,6 @@
       "label": "Speakers"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Cronograma"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
       "label": "Nuestro Equipo"
