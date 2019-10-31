@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.6" height="48" viewBox="0 0 33.6 48">
+  <g id="map-marker" transform="translate(-7.2)">
+    <path id="Trazado_7" data-name="Trazado 7" d="M24,22.8a6,6,0,1,1,6-6,6.018,6.018,0,0,1-6,6M24,0A16.772,16.772,0,0,0,7.2,16.8C7.2,29.4,24,48,24,48S40.8,29.4,40.8,16.8A16.772,16.772,0,0,0,24,0Z" fill="#e54545"/>
+    <circle id="Elipse_1" data-name="Elipse 1" cx="7" cy="7" r="7" transform="translate(17 9.8)" fill="#a82d2d"/>
+  </g>
+</svg>
